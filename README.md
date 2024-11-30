@@ -55,7 +55,7 @@ The EDA phase will involve:
 
 ---
 
-## Visualization  
+## Data Visualization  
 
 - **Time-series Graphs**: To depict spending trends alongside weather conditions over time.  
 - **Scatterplots and Heatmaps**: To visualize correlations between weather patterns and spending behavior.  
@@ -75,7 +75,7 @@ The EDA phase will involve:
 - Patterns such as:  
   - Increased spending on dining during rainy days.  
   - Higher clothing expenses during colder months.
-  - More expenses on cosmetics in high temperature dates.
+  - Higher transportation expenses during school periods and colder days.
       
 
 ---
