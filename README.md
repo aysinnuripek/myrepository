@@ -1,7 +1,7 @@
 # Sabancı University DSA210 Fall 2024-2025 Term Project  
-## Analyzing the Relationship Between Credit Card Spending and Weather Data  
+### Analyzing the Relationship Between My Credit Card Spending and Weather Data  
 I am Aysın Nur İpek (32393) and my project focuses on analyzing the relationship between my credit card spending data and weather patterns by examining transaction details and weather conditions.
-### Description  
+## Description  
 This project focuses on exploring how personal spending habits, categorized through credit card transactions, correlate with weather patterns in my location. Using my own credit card statement and publicly available weather data, I aim to uncover insights into how external factors like temperature and weather conditions influence spending across different categories. Additionally, the project will identify basic statistics within my dataset.  
 
 ---
